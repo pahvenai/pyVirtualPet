@@ -1,3 +1,9 @@
-#Sun Nov 11 20:37:21 EET 2012
+#Mon Nov 12 00:06:15 EET 2012
 eclipse.preferences.version=1
+encoding//src/GUI/GUI.py=utf-8
+encoding//src/GUI/GUImethods.py=utf-8
+encoding//src/GUI/Pet.py=utf-8
+encoding//src/GUI/SimpleCallback.py=utf-8
+encoding//src/GUI/main.py=utf-8
+encoding//src/Game/Game.py=utf-8
 encoding//src/Game/Pet.py=utf-8

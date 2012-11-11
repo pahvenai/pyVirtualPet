@@ -1,0 +1,4 @@
+Copyright:
+snail*
+default*
+	http://www.sxc.hu/photo/1181451

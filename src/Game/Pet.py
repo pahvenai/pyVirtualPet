@@ -6,6 +6,7 @@ __date__ ="$11.11.2012 20:37:35$"
 This module contains the Pet class
 
 Created on Nov 11, 2012
+Last Update: Nov 11, 2012
 
 @author: Patrik Ahvenainen
 '''
@@ -68,6 +69,9 @@ class Pet(object):
     @property
     def mass(self):
         return self._mass
+    @property
+    def name(self):
+        return self._name
     @property
     def species(self):
         return self._species
